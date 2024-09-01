@@ -1,8 +1,10 @@
-
+import Header from "../components/Header"
 
 function Signup() {
   return (
-    <div>Signup</div>
+    <div>
+      <Header />
+    </div>
   )
 }
 
